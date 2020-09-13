@@ -1,1 +1,3 @@
-# patterns-editor-2018
+### patterns-editor-2018
+
+Eclipse project
